@@ -1,4 +1,4 @@
-package com.example.githubapp.model.models;
+package com.example.githubapp.data.models;
 
 public class Repo implements Comparable<Repo> {
     int id;

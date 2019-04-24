@@ -1,6 +1,6 @@
-package com.example.githubapp.model.remote;
+package com.example.githubapp.data.remote;
 
-import com.example.githubapp.model.models.Repo;
+import com.example.githubapp.data.models.Repo;
 
 import java.util.List;
 
